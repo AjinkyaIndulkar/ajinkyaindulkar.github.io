@@ -21,3 +21,33 @@ a {
 a:hover {
   color: #558B71;
 }
+
+.btn:focus, .btn.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem #558B71;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #81B29A;
+  border-color: #81B29A;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #558B71;
+  border-color: #558B71;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  color: #fff;
+  background-color: #558B71;
+  border-color: #558B71;
+  box-shadow: 0 0 0 0.2rem #558b71;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #558B71;
+  border-color: #558B71;
+}
