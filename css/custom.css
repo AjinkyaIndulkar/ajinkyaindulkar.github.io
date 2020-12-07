@@ -1,0 +1,23 @@
+.bg-primary {
+  background-color: #3d405b !important;
+}
+
+.text-primary {
+  color: #81B29A !important;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+  color: #558B71 !important;
+}
+
+.social-icons .social-icon:hover {
+  background-color: #558B71;
+}
+
+a {
+  color: #81B29A;
+}
+
+a:hover {
+  color: #558B71;
+}
