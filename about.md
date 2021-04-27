@@ -1,18 +1,47 @@
 ---
-title: Colophon
+title: Hello World
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I am a Masters AI student at [Radboud University](https://www.ru.nl/english/), and currently working as a machine learning intern at [Sensity](https://sensity.ai/).
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I am a Masters AI student at [Radboud University](https://www.ru.nl/english/), 
+and currently working as a machine learning intern at [Sensity](https://sensity.ai/).
 
-If you have a question about him or else, just send a letter to him.
+### Experience
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+##### Machine Learning Engineer (Intern) - Sensity B.V.
 
-**may u needs ✨**
+Masters AI thesis project on lip-sync deepfake detection
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+##### Research Assistant - Donders Institute, Radboud University
+
+Research internship on investigating spiking neural networks using Intel's neuromorphic Loihi chip. 
+Project under the supervision of [Dr. Johan Kwisthout](http://www.socsci.ru.nl/johank/group.html) 
+
+
+##### Software Engineer - Signify B.V.
+
+Part of the IT Global Automation team to build and strengthen the organization’s Automation landscape using 
+AI solutions
+
+##### Software Engineer (Intern) - Signify B.V.
+
+Final year Bachelors thesis project on intent recognition of customer reviews on social media platforms
+using multiple natural language processing techniques
+
+### Skills
+
+##### Deep Learning Frameworks
+
+* PyTorch
+* MXNet
+* Keras/Tensorflow
+
+##### Other Technologies
+
+* python
+* git
+* docker
+* aws
