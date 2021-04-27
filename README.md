@@ -14,7 +14,7 @@ bundle exec jekyll serve
 
 2. Navigate to `localhost:4000`
 
-3. Shutdown local server: First, ctrl+c to stop the server, followed by:
+3. Shutdown local server: First, `ctrl+c` to stop the server, followed by:
 
 ```shell
 ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
