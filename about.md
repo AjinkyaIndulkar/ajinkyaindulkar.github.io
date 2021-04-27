@@ -6,8 +6,8 @@ excerpt: I am a Masters AI student at [Radboud University](https://www.ru.nl/eng
 comments: false
 ---
 
-I am a Masters AI student at [Radboud University](https://www.ru.nl/english/), 
-and currently working as a machine learning intern at [Sensity](https://sensity.ai/).
+I am a Masters AI student at [Radboud University](https://www.ru.nl/english/) and 
+currently working as a machine learning intern at [Sensity](https://sensity.ai/).
 
 ### Experience
 
