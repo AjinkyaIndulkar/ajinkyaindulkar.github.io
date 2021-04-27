@@ -26,7 +26,7 @@ author:
 url: "https://ajinkyaindulkar.github.io" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-E20RMFXHB6 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
