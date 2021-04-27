@@ -24,5 +24,7 @@ Note: The above command is to unbind 4000 port
 
 ### Changelog:
 
+- 28 April 2021: Updated website template to
+  [jekyll-klise](https://github.com/piharpi/jekyll-klise)
 - 27 April 2021: `v0.1` release with 
   [startbootstrap-resume template](https://github.com/StartBootstrap/startbootstrap-resume)
