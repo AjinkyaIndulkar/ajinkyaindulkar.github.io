@@ -85,7 +85,8 @@ how artificial intelligence can benefit the world.
 
 > **Epilogue**: This article is Part 2 of the blog mini-series, “Seeing was Believing”. You can read 
 > [Part 1: Introduction to Media Forensics](https://www.turningmagazine.com/blog/2021/01/13/seeing-was-believing-part-1/) 
-> on the Turning blog website. If you want to learn more about Deepfakes, you can visit https://sensity.ai/reports/.
+> on the Turning blog website. If you want to learn more about Deepfakes, you can visit 
+> [https://sensity.ai/reports/](https://sensity.ai/reports/).
 
 #### Reference
 
