@@ -2,18 +2,22 @@
 title: Hello World
 permalink: /about/
 layout: page
-excerpt: I am a Masters AI student at [Radboud University](https://www.ru.nl/english/), and currently working as a machine learning intern at [Sensity](https://sensity.ai/).
+excerpt: I am a Machine Learning Engineer at [Sensity](https://sensity.ai/).
 comments: false
 ---
 
-I am a Masters AI student at [Radboud University](https://www.ru.nl/english/) and 
-currently working as a machine learning intern at [Sensity](https://sensity.ai/).
+I am a Machine Learning Engineer at [Sensity](https://sensity.ai/).
 
 ### Experience
 
+##### Machine Learning Engineer - Sensity B.V.
+
+Design and development of deep learning algorithms for company’s Deepfake Detection APIs
+
 ##### Machine Learning Engineer (Intern) - Sensity B.V.
 
-Masters AI thesis project on lip-sync deepfake detection
+Masters AI thesis project on lip-sync deepfake detection. Project under the supervision of 
+[Dr. Giorgio Patrini](https://giorgiop.github.io/) and [Dr Tim C. Kietzmann](https://www.timkietzmann.de/) (internal)
 
 ##### Research Assistant - Donders Institute, Radboud University
 
