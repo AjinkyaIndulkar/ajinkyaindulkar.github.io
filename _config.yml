@@ -13,8 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ajinkya Indulkar # author name
   bio: >- # tell to the world
-    Welcome to my personal AI-centric blog website! AI stands for artificial intelligence
-    (and sometimes Ajinkya Indulkar).
+    Welcome to my personal blog website!
   username: AjinkyaIndulkar # general username
   github: AjinkyaIndulkar # github username
   twitter: AjinkyaIndulkar # twitter username
